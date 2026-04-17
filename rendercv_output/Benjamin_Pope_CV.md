@@ -167,13 +167,13 @@ June 2017 – Nov 2017
 
 **Conference Organization:** SOC Chair, 2024 and 2025 Australian Exoplanet Workshops (Brisbane, Newcastle). SOC member for 2023 Australian Exoplanet Workshop. 2026 Astronomical Society of Australia Annual Scientific Meeting (ANU); Life around a Radio Star (2022, Leiden); Royal Society *Radiocarbon and cosmic radiation events* Meeting (2025, Edinburgh).
 
-**Committee Service:** Astronomical Society of Australia Stellar & Planetary Astronomy chapter committee (2025-). Chair, Reconciliation Action Plan Committee, UQ School of Mathematics and Physics (SMP; 2022-2024); Chair, UQ SMP Early & Mid-Career Academic committee (2022-2024); member, UQ SMP Equity, Diversity, and Inclusion Committee (2022-2024). MQ MAPS Research Training Committee (2025-).
+**Committee Service:** MQ Astronomy & Space Technology Research Centre executive committee. Astronomical Society of Australia Stellar & Planetary Astronomy chapter committee (2025-). Chair, Reconciliation Action Plan Committee, UQ School of Mathematics and Physics (SMP; 2022-2024); Chair, UQ SMP Early & Mid-Career Academic committee (2022-2024); member, UQ SMP Equity, Diversity, and Inclusion Committee (2022-2024). MQ MAPS Research Training Committee (2025-).
 
 # Selected Synergistic Activities
-**Open-Source Software:** halophot (enhancing dynamic range of Kepler/TESS), dLux (differentiable JAX physical optics), ticktack (Bayesian radiocarbon modelling)
+**Open-Source Software:** dLux (differentiable JAX physical optics), drpangloss (differentiable JAX interferometry), halophot (enhancing dynamic range of Kepler/TESS), ticktack (Bayesian radiocarbon modelling)
 
-**Research impact:** 13 first-author papers; 53 co-authored; ~1900 citations; h-index 23. Published in *Nature*, *Nature Astronomy*, ApJ, MNRAS, A&A, *Proc. Royal Society A*."
+**Research impact:** 13 first-author papers; 54 co-authored; 1961 citations; h-index 23. Published in *Nature*, *Nature Astronomy*, ApJ, MNRAS, A&A, *Proc. Royal Society A*."
 
-**Media:** Science writing in *The Monthly*, *The Conversation*, *Cooper Square Review*, *Oxonian Review*, *Best Australian Science Writing 2021*. Media comment via ABC, *Guardian*, NYT, *Sydney Morning Herald*. Science Consultant for *War of the Worlds* (TV series), winning team member for *University Challenge* (BBC, 2017).
+**Media:** Science writing in *The Monthly*, *The Conversation*, *Cooper Square Review*, *Oxonian Review*, *Best Australian Science Writing 2021*, and a Princeton University Press book chapter. Media comment via ABC, *Guardian*, NYT, *Sydney Morning Herald*. Science Consultant for *War of the Worlds* (TV series), winning team member for *University Challenge* (BBC, 2017).
 
 **Public Engagement:** Sold-out performances for Pint of Science (Brisbane, Sydney), World Science Festival at QPAC, Caveat NYC science comedy, and Astronomy on Tap Brooklyn. Lead organizer of public telescope viewings of eclipses and the Transits of Venus and Mercury in Sydney, New York,  Oxford, and Brisbane. Telescope guide at Uluru, Stargazing Oxford, and PopScope DC and Baltimore.
